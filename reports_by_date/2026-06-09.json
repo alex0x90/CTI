@@ -177,5 +177,51 @@
         "https://www.pointwild.com/threat-intelligence/from-phishing-email-to-process-injection-inside-a-multi-stage-agent-tesla-infection-chain/"
       ]
     }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-09",
+      "title": "Phishing attacks leverage TikTok, Instagram Reels",
+      "completeness": "Low",
+      "threats": [
+        "Vidar_stealer"
+      ],
+      "software": [
+        "TikTok",
+        "Instagram",
+        "Microsoft Word",
+        "CapCut"
+      ],
+      "languages": [
+        "powershell"
+      ],
+      "links": [
+        "https://www.reversinglabs.com/blog/social-media-attacks-phishing"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-09",
+      "title": "Under the Hood - LotusLite: Believe me I am MustangPanda",
+      "completeness": "Low",
+      "threats": [
+        "Lotuslite"
+      ],
+      "geo": [
+        "China",
+        "Singapore"
+      ],
+      "software": [
+        "Chrome"
+      ],
+      "algorithms": [
+        "sha256",
+        "zip"
+      ],
+      "links": [
+        "https://blog.exatrack.com/UnderTheHood_Believe_me_I_am_MustangPanda/"
+      ]
+    }
   }
 ]

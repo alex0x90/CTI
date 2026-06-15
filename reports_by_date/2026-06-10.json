@@ -302,5 +302,62 @@
         "https://newtonpaul.com/blog/dcl-infrastructure-update/"
       ]
     }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-10",
+      "title": "GoFlateLoader: A Widespread Golang Loader Delivering Multiple Infostealers",
+      "completeness": "Low",
+      "threats": [
+        "Goflateloader",
+        "Amatera_stealer",
+        "Remus",
+        "Lumma_stealer",
+        "Vidar_stealer",
+        "Stealc",
+        "Svitstealer"
+      ],
+      "geo": [
+        "India",
+        "Argentina",
+        "Spain",
+        "Mexico",
+        "Turkey",
+        "Brazil"
+      ],
+      "ttp_tactics": 1,
+      "ttp_techniques": 0,
+      "languages": [
+        "golang"
+      ],
+      "links": [
+        "https://www.gendigital.com/blog/insights/research/goflateloader-delivers-multiple-infostealers"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-10",
+      "title": "Tracking Havoc Malware Activity and Evasion Techniques",
+      "completeness": "Low",
+      "threats": [
+        "Havoc"
+      ],
+      "ttp_tactics": 1,
+      "ttp_techniques": 0,
+      "software": [
+        "qemu",
+        "hyper-v"
+      ],
+      "algorithms": [
+        "zip"
+      ],
+      "functions": [
+        "GetProcedureAddress"
+      ],
+      "links": [
+        "https://www.sonicwall.com/blog/tracking-havoc-malware-activity-and-evasion-techniques"
+      ]
+    }
   }
 ]

@@ -1,0 +1,197 @@
+[
+  {
+    "parsed": {
+      "report_date": "2026-06-14",
+      "title": "Dark Web Profile: Tengu Ransomware (Shisa)",
+      "completeness": "High",
+      "threats": [
+        "Tengu_ransomware",
+        "Stealtengu_tool",
+        "Stealtg_tool",
+        "Rclone_tool",
+        "Edr-killer",
+        "Salatstealer",
+        "Residential_proxy_technique",
+        "Spear-phishing_technique",
+        "Fortirdp_tool",
+        "Shadow_copies_delete_technique",
+        "Zerologon_vuln",
+        "Netexec_tool",
+        "Wevtutil_tool",
+        "Lolbin_technique",
+        "Screenconnect_tool",
+        "Credential_dumping_technique",
+        "Password_spray_technique"
+      ],
+      "geo": [
+        "Russia",
+        "Thailand",
+        "Africa",
+        "United states",
+        "Brazil",
+        "Middle east",
+        "Asia",
+        "Iran",
+        "India",
+        "Morocco",
+        "Japanese",
+        "Italy",
+        "Poland",
+        "Iranian",
+        "America",
+        "Indonesia",
+        "Mexico",
+        "African",
+        "Qatar",
+        "Spain"
+      ],
+      "ttp_tactics": 13,
+      "ttp_techniques": 26,
+      "software": [
+        "Linux",
+        "ESXi",
+        "WinSCP",
+        "PixelDrain",
+        "Active Directory",
+        "Windows Defender",
+        "Windows Security Center",
+        "Windows Update service",
+        "wuauserv"
+      ],
+      "algorithms": [
+        "sha256"
+      ],
+      "languages": [
+        "powershell"
+      ],
+      "links": [
+        "https://socradar.io/blog/dark-web-profile-tengu-ransomware-shisa/"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-14",
+      "title": "Analysis of APT37 NarwhalRAT based on MS Impersonation Phishing and Dead-drop C2",
+      "completeness": "High",
+      "threats": [
+        "Narwhalrat",
+        "Dead_drop_technique",
+        "Spear-phishing_technique",
+        "Rokrat",
+        "Sandbox_evasion_technique",
+        "Lolbin_technique"
+      ],
+      "geo": [
+        "South korean",
+        "South korea",
+        "Korea",
+        "Korean"
+      ],
+      "ttp_tactics": 4,
+      "ttp_techniques": 0,
+      "software": [
+        "curl",
+        "Windows security",
+        "Windows Task Scheduler",
+        "VirtualBox",
+        "hyperv",
+        "macOS",
+        "Internet Explorer",
+        "task scheduler"
+      ],
+      "algorithms": [
+        "md5",
+        "zip",
+        "aes",
+        "xor",
+        "base64",
+        "aes-128",
+        "sha256"
+      ],
+      "functions": [
+        "chr",
+        "inside",
+        "RtlMoveMemory",
+        "SHGetFolderPathA"
+      ],
+      "languages": [
+        "powershell",
+        "python"
+      ],
+      "links": [
+        "https://www.genians.co.kr/blog/threat_intelligence/narwhalrat",
+        "https://github.com/LOLBAS-Project/LOLBAS"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-14",
+      "title": "Inside the Miasma Software Supply Chain Attack Toolkit",
+      "completeness": "Medium",
+      "threats": [
+        "Supply_chain_technique",
+        "Miasma",
+        "Credential_harvesting_technique",
+        "Typosquatting_technique",
+        "Shai-hulud",
+        "Tanium_tool"
+      ],
+      "geo": [
+        "Russian"
+      ],
+      "ttp_tactics": 6,
+      "ttp_techniques": 0,
+      "software": [
+        "Claude",
+        "Kubernetes",
+        "HashiCorp Vault",
+        "1Password",
+        "Bitwarden",
+        "VSCode",
+        "sudo",
+        "docker",
+        "alpine",
+        "Microsoft Defender for Endpoint",
+        "have more..."
+      ],
+      "algorithms": [
+        "pbkdf2",
+        "aes-256-gcm",
+        "sha256",
+        "base64",
+        "aes-256-cbc",
+        "rsa-4096",
+        "aes",
+        "aes-128-gcm"
+      ],
+      "functions": [
+        "main",
+        "gatherQuickResults",
+        "getTokenMetadata",
+        "createEnvelope",
+        "always",
+        "handlePypiTokens",
+        "hasHostileEDR",
+        "c2Checkin",
+        "eval",
+        "buildSelfExtractingPayload",
+        "have more..."
+      ],
+      "languages": [
+        "ruby",
+        "javascript",
+        "python",
+        "php",
+        "typescript"
+      ],
+      "links": [
+        "https://safedep.io/inside-the-miasma-supply-chain-attack-toolkit",
+        "https://github.com/YangYongAn/Miasma-Open-Source-Release",
+        "https://github.com/safedep/pmg/blob/main/docs/sandbox.md",
+        "https://github.com/safedep/pmg"
+      ]
+    }
+  }
+]

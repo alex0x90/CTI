@@ -478,5 +478,235 @@
         "https://www.fortinet.com/blog/threat-research/threat-actors-weaponize-ai-hype-to-deliver-asyncrat"
       ]
     }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-11",
+      "title": "Solana FakeFix: 25 Malicious npm and PyPI Packages Lure Developers With Fake Stable Builds",
+      "completeness": "Medium",
+      "threats": [
+        "Typosquatting_technique",
+        "Deno_loader"
+      ],
+      "ttp_tactics": 2,
+      "ttp_techniques": 0,
+      "software": [
+        "Telegram",
+        "ETHERSCAN",
+        "Unix crontab",
+        "macOS",
+        "Windows scheduled task",
+        "Windows Registry"
+      ],
+      "crypto": [
+        "solana"
+      ],
+      "algorithms": [
+        "base58"
+      ],
+      "functions": [
+        "Set-ExecutionPolicy",
+        "setTimeout",
+        "Set-ItemProperty"
+      ],
+      "languages": [
+        "javascript",
+        "typescript",
+        "python",
+        "powershell"
+      ],
+      "links": [
+        "https://research.jfrog.com/post/solana-fakefix/"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-11",
+      "title": "Sniper’s Nest: From Brand Impersonation to Browser Hijacking and CPA Fraud",
+      "completeness": "Medium",
+      "threats": [
+        "Sniper_dz_tool",
+        "Cloaking_technique"
+      ],
+      "geo": [
+        "Africa",
+        "Algeria",
+        "Middle east",
+        "Mena"
+      ],
+      "software": [
+        "Instagram",
+        "Steam"
+      ],
+      "links": [
+        "https://www.group-ib.com/blog/inside-sniperdz-phaas-ecosystem/"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-11",
+      "title": "Inside OnyxC2: The New Stealer Targeting 210 Apps",
+      "completeness": "High",
+      "threats": [
+        "Onyxc2",
+        "Hvnc_tool",
+        "Runpe_tool",
+        "Dll_sideloading_technique",
+        "Bloat_technique",
+        "Credential_dumping_technique"
+      ],
+      "ttp_tactics": 3,
+      "ttp_techniques": 15,
+      "software": [
+        "Chromium",
+        "NVIDIA graphics"
+      ],
+      "algorithms": [
+        "sha256",
+        "zip",
+        "aes-256"
+      ],
+      "languages": [
+        "php"
+      ],
+      "links": [
+        "https://www.blackfog.com/inside-onyxc2-the-new-stealer-targeting-210-apps/"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-11",
+      "title": "New NPM Supply Chain Campaign Identified : A Multi-Stage Cryptocurrency Malware with More Than 2.7 million Downloads",
+      "completeness": "High",
+      "threats": [
+        "Supply_chain_technique",
+        "Moralis-sdk",
+        "Credential_harvesting_technique",
+        "Typosquatting_technique"
+      ],
+      "ttp_tactics": 10,
+      "ttp_techniques": 11,
+      "software": [
+        "Node.js",
+        "curl",
+        "Docker",
+        "GitHub Codespaces",
+        "Linux",
+        "macOS"
+      ],
+      "wallets": [
+        "coinbase",
+        "mainnet"
+      ],
+      "crypto": [
+        "ethereum"
+      ],
+      "algorithms": [
+        "aes-256-gcm",
+        "sha1",
+        "base64",
+        "sha256"
+      ],
+      "functions": [
+        "execSync",
+        "setTimeout",
+        "shouldRunPayload",
+        "getString",
+        "spawn"
+      ],
+      "languages": [
+        "javascript",
+        "powershell",
+        "python"
+      ],
+      "links": [
+        "https://www.cyfirma.com/research/new-npm-supply-chain-campaign-identified-a-multi-stage-cryptocurrency-malware-with-more-than-2-7-million-downloads/"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-11",
+      "title": "Fake hiring pages abuse FIFA and other major brands to steal work credentials",
+      "completeness": "Low",
+      "software": [
+        "Gmail"
+      ],
+      "links": [
+        "https://www.gendigital.com/blog/insights/research/fake-hiring-pages-abuse-fifa"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-11",
+      "title": "How to defend ARM64 cloud infrastructure from ITScape",
+      "completeness": "Low",
+      "threats": [
+        "Itscape_vuln"
+      ],
+      "software": [
+        "QEMU"
+      ],
+      "algorithms": [
+        "sha256"
+      ],
+      "functions": [
+        "vgic_its_invalidate_cache"
+      ],
+      "links": [
+        "https://www.reversinglabs.com/blog/defend-cloud-infrastructure-itscape"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-11",
+      "title": "The Anubis Ransomware Attack on the Adriatic Port Authority",
+      "completeness": "Medium",
+      "threats": [
+        "Anubis",
+        "Supply_chain_technique",
+        "Eternal_petya",
+        "Ryuk",
+        "Lockbit",
+        "Citrix_bleed2_vuln",
+        "Spear-phishing_technique",
+        "Smuggling_technique"
+      ],
+      "geo": [
+        "Israeli",
+        "Spain",
+        "Australia",
+        "Japan",
+        "Canada",
+        "Iran",
+        "Russian",
+        "Portugal",
+        "Peru"
+      ],
+      "ttp_tactics": 1,
+      "ttp_techniques": 1,
+      "software": [
+        "QEMU",
+        "Android",
+        "Office 365"
+      ],
+      "crypto": [
+        "bitcoin"
+      ],
+      "algorithms": [
+        "exhibit"
+      ],
+      "languages": [
+        "swift"
+      ],
+      "links": [
+        "https://www.resecurity.com/blog/article/the-anubis-ransomware-attack-on-the-adriatic-port-authority"
+      ]
+    }
   }
 ]

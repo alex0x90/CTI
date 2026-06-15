@@ -1,0 +1,35 @@
+[
+  {
+    "parsed": {
+      "report_date": "2026-06-13",
+      "title": "152 Chrome Live Wallpaper Extensions Hid Ad Tracking and Faked Google Search Traffic",
+      "completeness": "Low",
+      "threats": [
+        "Bumblebee"
+      ],
+      "geo": [
+        "Turkey",
+        "Turkish",
+        "Tokyo",
+        "Ankara"
+      ],
+      "ttp_tactics": 1,
+      "ttp_techniques": 5,
+      "software": [
+        "Chrome",
+        "IndexedDB",
+        "Outlook",
+        "WordPress",
+        "Kitty",
+        "Minecraft"
+      ],
+      "functions": [
+        "setUninstallURL",
+        "deleteDatabase"
+      ],
+      "links": [
+        "https://socket.dev/blog/152-chrome-live-wallpaper-extensions-hid-ad-tracking"
+      ]
+    }
+  }
+]

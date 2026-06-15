@@ -229,5 +229,188 @@
         "https://censys.com/blog/following-a-usps-smishing-kit-through-censys-dns-data/"
       ]
     }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-12",
+      "title": "Fake verification pages are stealing Steam accounts from players",
+      "completeness": "Low",
+      "threats": [
+        "Bitm_technique"
+      ],
+      "software": [
+        "Steam",
+        "Discord"
+      ],
+      "links": [
+        "https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-verification-pages-are-stealing-steam-accounts-from-players"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-12",
+      "title": "Interlock and Rhysida within the Ransomware Ecosystem",
+      "completeness": "High",
+      "threats": [
+        "Interlock",
+        "Rhysida",
+        "Nodesnake",
+        "Interlockrat",
+        "Junkfiction",
+        "Supper_backdoor",
+        "Zapcat",
+        "Kongtuke",
+        "Pkr_mtsi_tool",
+        "Endico",
+        "Oyster",
+        "Textshell",
+        "Latrodectus",
+        "Inc_ransomware",
+        "Gootkit",
+        "Socgholish_loader",
+        "Clickfix_technique",
+        "Mintsloader",
+        "Dave_loader",
+        "Modelorat",
+        "Trickbot",
+        "Conti",
+        "Emotet",
+        "Icedid",
+        "Ryuk",
+        "Cornflake",
+        "Windytwist",
+        "Berserkstealer",
+        "Ntlmthief_tool",
+        "Portstarter",
+        "Systembc",
+        "Junk_code_technique",
+        "Antidebugging_technique",
+        "Api_hammering_technique",
+        "Vidar_stealer",
+        "Dead_drop_technique",
+        "Nltest_tool",
+        "Donut",
+        "Azcopy_tool",
+        "Winpmem_tool",
+        "Printnightmare_vuln",
+        "Advanced-port-scanner_tool",
+        "Screenconnect_tool",
+        "Sliver_c2_tool",
+        "Credphish_tool"
+      ],
+      "ttp_tactics": 1,
+      "ttp_techniques": 0,
+      "software": [
+        "Linux",
+        "yInstaller",
+        "PyInstaller",
+        "Microsoft Teams",
+        "Microsoft Edge",
+        "TryCloudflare",
+        "Steam",
+        "Telegram",
+        "MSSQL",
+        "Windows Defender Application Control",
+        "have more..."
+      ],
+      "algorithms": [
+        "xor",
+        "zip",
+        "aes-256",
+        "lzma",
+        "sha256",
+        "rc4",
+        "cbc"
+      ],
+      "functions": [
+        "Write-Output"
+      ],
+      "languages": [
+        "python",
+        "javascript",
+        "powershell",
+        "java",
+        "php"
+      ],
+      "links": [
+        "https://www.ibm.com/think/x-force/interlock-and-rhysida-within-the-ransonware-ecosystem",
+        "https://github.com/GhostPack/Certify",
+        "https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption/tree/main",
+        "https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-12",
+      "title": "News - Malware & Hoax - TG Soft Cyber Security Specialist",
+      "completeness": "Low",
+      "geo": [
+        "Italy",
+        "Aruba"
+      ],
+      "links": [
+        "https://www.tgsoft.it/news/news_archivio.asp?id=1746"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-12",
+      "title": "Offside and Online: GHOST STADIUM Phishing Targeting World Cup Fans",
+      "completeness": "Low",
+      "geo": [
+        "Indian",
+        "Chinese",
+        "China",
+        "India"
+      ],
+      "ttp_tactics": 1,
+      "ttp_techniques": 0,
+      "functions": [
+        "strip",
+        "lower",
+        "Client"
+      ],
+      "languages": [
+        "javascript",
+        "python"
+      ],
+      "links": [
+        "https://www.validin.com/blog/ghost_stadium/",
+        "https://github.com/Validin/indicators/blob/master/GhostStadium"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-12",
+      "title": "Akira, LimeWire, and the Sour Taste of Data Exfiltration",
+      "completeness": "Low",
+      "threats": [
+        "Akira_ransomware",
+        "Limewire_tool",
+        "Restic_tool",
+        "S5cmd_tool",
+        "Megasync_tool"
+      ],
+      "ttp_tactics": 1,
+      "ttp_techniques": 0,
+      "software": [
+        "LimeWire",
+        "Microsoft Defender",
+        "WinRAR",
+        "Microsoft Edge",
+        "Active Directory",
+        "WinSCP"
+      ],
+      "algorithms": [
+        "sha256"
+      ],
+      "links": [
+        "https://www.huntress.com/blog/akira-ransomware-limewire-data-exfiltration"
+      ]
+    }
   }
 ]

@@ -1,0 +1,133 @@
+[
+  {
+    "parsed": {
+      "report_date": "2026-06-15",
+      "title": "The Quarry: Inside the PhaaS Operation Behind Hundreds of IRS and SSA Phishing Campaigns",
+      "completeness": "High",
+      "threats": [
+        "Cloaking_technique",
+        "Screenconnect_tool",
+        "Adspect_tool",
+        "Uac_bypass_technique",
+        "Credential_harvesting_technique",
+        "Evilginx_tool",
+        "Violet_rat",
+        "Madoo_blaster_tool",
+        "Credential_dumping_technique",
+        "Centrastage_tool",
+        "Tiflux_tool",
+        "Fleetdeck_tool"
+      ],
+      "geo": [
+        "Germany",
+        "Japan",
+        "Brazil",
+        "Egypt",
+        "Canada",
+        "United states"
+      ],
+      "ttp_tactics": 3,
+      "ttp_techniques": 0,
+      "software": [
+        "Telegram",
+        "Dropbox",
+        "Gmail",
+        "macOS",
+        "Linux",
+        "Chrome"
+      ],
+      "algorithms": [
+        "rsa-4096",
+        "md5",
+        "base64",
+        "aes"
+      ],
+      "functions": [
+        "safe_cleanup"
+      ],
+      "languages": [
+        "powershell",
+        "php",
+        "javascript",
+        "visual_basic"
+      ],
+      "links": [
+        "https://socradar.io/blog/the-quarry-phaas-irs-ssa-phishing/"
+      ]
+    }
+  },
+  {
+    "parsed": {
+      "report_date": "2026-06-15",
+      "title": "Dark Web Profile: Fox Kitten",
+      "completeness": "Medium",
+      "threats": [
+        "Chinachopper",
+        "Chunkytuna",
+        "Hanifnet",
+        "Hxlibrary",
+        "Neoexpressrat",
+        "Shadow_copies_delete_technique",
+        "Credential_harvesting_technique",
+        "Procdump_tool",
+        "Angry_ip_scanner_tool",
+        "Putty_tool",
+        "Plink_tool",
+        "Tightvnc_tool",
+        "Frpc_tool",
+        "Ngrok_tool",
+        "Reversesocks5_tool",
+        "Sshminion_tool",
+        "Timestomp_technique",
+        "Chisel_tool",
+        "Meshcentral_tool",
+        "Noescape",
+        "Ransomhouse",
+        "Blackcat",
+        "Pay2key",
+        "Psexec_tool",
+        "Credential_dumping_technique"
+      ],
+      "geo": [
+        "America",
+        "Israeli",
+        "Middle east",
+        "China",
+        "Africa",
+        "Australia",
+        "Iranian",
+        "Israel",
+        "United states",
+        "Azerbaijan",
+        "Arab emirates",
+        "United arab emirates"
+      ],
+      "ttp_tactics": 10,
+      "ttp_techniques": 47,
+      "software": [
+        "BIG-IP",
+        "PAN-OS",
+        "PsExec",
+        "prodump",
+        "Active Directory",
+        "KeePass",
+        "WizTree",
+        "Chrome",
+        "TightVNC",
+        "Twitter",
+        "have more..."
+      ],
+      "algorithms": [
+        "base64"
+      ],
+      "languages": [
+        "perl",
+        "powershell",
+        "php"
+      ],
+      "links": [
+        "https://socradar.io/blog/dark-web-profile-fox-kitten/"
+      ]
+    }
+  }
+]
